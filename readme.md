@@ -1,0 +1,2 @@
+This is a freecodecamp project exercise for checking palindrome word. you can read more info in link below:
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker/
